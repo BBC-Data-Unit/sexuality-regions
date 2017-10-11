@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/BBC-Data-Unit/sexuality-regions/master/Lesbian%2C%20gay%20or%20bisexual%20people%20by%20region%202016.png)
 
-In October 2017 **Daniel Wainwright and Kate Scotter** looked at new ONS statistics on sexual identity. 
+In October 2017 **Daniel Wainwright and Kate Scotter** [looked at](http://www.bbc.co.uk/news/uk-england-41475038) new ONS statistics on sexual identity. 
 
 ## Get the data
 
